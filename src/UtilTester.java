@@ -4,6 +4,7 @@
 // you to run the test cases!
 
 import org.junit.*;
+
 import static org.junit.Assert.assertEquals;
 
 public class UtilTester {
